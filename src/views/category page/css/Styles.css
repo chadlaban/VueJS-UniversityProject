@@ -1,0 +1,296 @@
+.carousel {
+    height: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+
+.navbar-inverse {
+    margin: 0;
+}
+#Event00123{
+    text-align: center;
+    text-decoration: none;
+  	background-color: #55595c ;
+  	color: white;
+  	padding: 13px 1px;
+  	font-family: "Lucida Console";
+	text-decoration: none;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+.placeholder{
+    float: left;
+    background-color: #55595c;
+    margin-left: 10%;
+    border-style: solid;
+    height: 300px;
+    width: 35%
+
+}
+#placeholder{
+    text-align: center;
+    text-decoration: none;
+  	background-color: #000000 ;
+  	color: white;
+  	padding: 13px 1px;
+  	font-family: "Lucida Console";
+	text-decoration: none;
+    width: 100%;
+    height: 40px;
+
+}
+.imagesInside{
+    background-color: #55595c ;
+    height: 100px;
+	width: 35%;
+    margin-left: 10%;
+    align-items: baseline;
+    margin-bottom: 5%;
+}
+.anotherPlaceholder{
+    background-color: #55595c;
+    border-style: solid;
+    height: 300px;
+    margin-left: 50%;
+    width: 35%;
+}
+#anotherPlaceholder{
+  	font-family: fantasy;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+.justStyle{
+    margin:12.5px -15px;
+}
+.justStyle a{
+    color:white;
+    text-decoration: none;
+}
+
+.button {
+    margin-left: 30px;
+    background-color: #494949; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.Music h2 {  
+    background: url('../images/music.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+
+.Business h2{
+    background: url('../images/business.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+}
+
+.Food h2 {
+    background: url('../images/food.jpeg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+.Community h2 {
+    background: url('../images/community.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Arts h2 {
+    background: url('../images/arts.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Film h2 {
+    background: url('../images/Film.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Sports h2 {
+    background: url('../images/ball.png');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Health h2 {
+    background: url('../images/music.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Science h2 {
+    background: url('../images/science.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Travel h2 {
+    background: url('../images/travel.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Charity h2 {
+    background: url('../images/charity.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Spirituality h2 {
+    background: url('../images/religion.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Family h2 {
+    background: url('../images/family.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Holiday h2 {
+    background: url('../images/holiday.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Government h2 {
+    background: url('../images/government.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Fashion h2 {
+    background: url('../images/fashion.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Home h2 {
+    background: url('../images/home.jpg');
+    background: url('../images/home.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Auto, h2 {
+    background: url('../images/car.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Hobbies h2 {
+    background: url('../images/hobbies.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.Other h2 {
+    background: url('../images/other.jpg');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.School h2 {
+    background: url('../images/School.png');
+    color: antiquewhite;
+    width: 500px;
+    padding: 100px;
+    margin-bottom: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
